@@ -11,7 +11,7 @@ import SwiftUI
 struct HappyPotterFinderApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CharaterDetailView()
         }
     }
 }
